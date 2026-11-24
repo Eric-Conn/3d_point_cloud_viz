@@ -1,1 +1,1 @@
-pca_test_var.gif
+<img src = "3d_viz_example.png" >
